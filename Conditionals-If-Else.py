@@ -25,5 +25,5 @@ def validate_and_execute ():
         print("You entered a wrong value, Dont ruin my program!")
     
 user_input = input('Hey user, enter a number of days and i will convert it to hours.\n') 
-validate_and_execute ()
+validate_and_execute ()         # call the function
 
