@@ -33,7 +33,7 @@ def validate_and_execute ():
     user_input = input('Hey user, enter a number of days and i will convert it to hours.\n') 
     validate_and_execute ()'''       
 
-user_input = ""  # create a variable that a while loop 1st run.
+user_input = ""  # create a variable that a while loop 1st runs.
 while user_input != "exit":   # a condition that will run until user types the exit.
     user_input = input('Hey user, enter a number of days and i will convert it to hours.\n') 
     validate_and_execute ()  
